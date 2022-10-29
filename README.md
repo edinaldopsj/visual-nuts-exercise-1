@@ -19,6 +19,7 @@ Requirements for the software to run
 - [NodeJS 16.14.2](https://nodejs.org/en/)
 
 ### Installing
+First of all, install latest NodeJS version, then open a terminal, and do the steps:
 
 To run this exercise do the following:
 
@@ -51,11 +52,11 @@ To deploy this application do the following:
 
 ## Authors
 
+  - **Edinaldo PSJ** - *Creator for this test* -
+    [MyProfile](https://github.com/edinaldopsj)
+
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
-
-  - **Edinaldo PSJ** - *Creator for this test* -
-  - [MyProfile](https://github.com/edinaldopsj)
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
