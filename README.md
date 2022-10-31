@@ -12,6 +12,7 @@ numbers divisible by both (eg: the number 15) the same, but print 'Visual Nuts'.
 - Clone this repo
 - Run start to show the exercise results
 - For tests run npm test
+- The JS files are generated like the build files.
 
 ### Prerequisites
 
